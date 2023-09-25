@@ -60,7 +60,7 @@ ___
 ___
 ### Change·Room () {: aria-label='Functions' }
 [ ](#){: .rep .tooltip .badge }
-#### void ChangeRoom ( int RoomIndex, int Dimension = -1 ) {: .copyable aria-label='Functions' }
+#### void ChangeRoom ( int GridIndex, int Dimension = -1 ) {: .copyable aria-label='Functions' }
 
 ???+ bug "Bugs"
     This method does not update the fxlayers properly. Do not use this method and use `Game.ChangeRoom` instead.
