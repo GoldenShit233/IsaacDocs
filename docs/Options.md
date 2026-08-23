@@ -55,8 +55,14 @@ ___
 
 ___
 ### Display·Popups {: aria-label='Variables' }
-[ ](#){: .reporplus .tooltip .badge }
+[ ](#){: .rep .tooltip .badge }
 #### boolean DisplayPopups  {: .copyable aria-label='Variables' }
+
+___
+### Display·Popups {: aria-label='Variables' }
+[ ](#){: .repplus .tooltip .badge }
+#### number DisplayPopups  {: .copyable aria-label='Variables' }
+0:off; 1:big; 2:small
 
 ___
 ### Extra·HUD·Style {: aria-label='Variables' }
