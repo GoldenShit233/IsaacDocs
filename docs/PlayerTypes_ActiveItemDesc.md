@@ -42,6 +42,7 @@ ___
 ### SubCharge {: aria-label='Variables' }
 [ ](#){: .rep .tooltip .badge }
 #### int SubCharge {: .copyable aria-label='Variables' }
+Charges of one-charge item that truned into timed-charge by 9 Volts(0-450 range)
 
 ___
 ### TimedRechargeCooldown {: aria-label='Variables' }
