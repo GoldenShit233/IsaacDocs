@@ -57,9 +57,6 @@ ___
 ### Display·Popups {: aria-label='Variables' }
 [ ](#){: .rep .tooltip .badge }
 #### boolean DisplayPopups  {: .copyable aria-label='Variables' }
-
-___
-### Display·Popups {: aria-label='Variables' }
 [ ](#){: .repplus .tooltip .badge }
 #### number DisplayPopups  {: .copyable aria-label='Variables' }
 0:off; 1:big; 2:small
